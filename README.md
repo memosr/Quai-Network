@@ -1,4 +1,4 @@
-<h1 align="center"> INITIA
+<h1 align="center"> Quai Network
 
 
 ![image](https://i.hizliresim.com/ei4gp1w.jpg)
